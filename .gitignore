@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.vite/
+playwright-report/
+test-results/
+data/
+.data/
+web/dist/
+*.log
+.env
+.env.*
+!.env.example

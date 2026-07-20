@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "gaps-qa-edge",
+  "main": "cloudflare/worker.ts",
+  "compatibility_date": "2026-03-22",
+  "vars": {
+    "UPSTREAM_BASE_URL": "https://replace-me.example.com"
+  }
+}
